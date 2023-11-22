@@ -1,1 +1,1 @@
-# VEC-Model-For-Data-Analysis
+# VEC-Model-For-Risk-Analysis
